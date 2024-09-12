@@ -2,3 +2,8 @@ body{
     background-color: rgb(131, 126, 173);
     color: black;
 }
+
+main{
+    background-color: black;
+    color: white;
+}
