@@ -7,4 +7,12 @@ main{
     background-color: rgb(206, 200, 190);
     color: black;
     width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+
+}
+
+h1{ 
+    background-color: rgb(255, 141, 41);
+    color: black;
 }
